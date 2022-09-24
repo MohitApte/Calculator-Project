@@ -1,0 +1,9 @@
+G:\C#\MohitCalc\MohitCalc\bin\Debug\MohitCalc.exe.config
+G:\C#\MohitCalc\MohitCalc\bin\Debug\MohitCalc.exe
+G:\C#\MohitCalc\MohitCalc\bin\Debug\MohitCalc.pdb
+G:\C#\MohitCalc\MohitCalc\obj\Debug\MohitCalc.csprojResolveAssemblyReference.cache
+G:\C#\MohitCalc\MohitCalc\obj\Debug\MohitCalc.Form1.resources
+G:\C#\MohitCalc\MohitCalc\obj\Debug\MohitCalc.Properties.Resources.resources
+G:\C#\MohitCalc\MohitCalc\obj\Debug\MohitCalc.csproj.GenerateResource.Cache
+G:\C#\MohitCalc\MohitCalc\obj\Debug\MohitCalc.exe
+G:\C#\MohitCalc\MohitCalc\obj\Debug\MohitCalc.pdb
